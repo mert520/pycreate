@@ -1,0 +1,3 @@
+Bu program için python indir yoksa çalışmaz pythonlar Linux/windows/macos şeklinde python klasöründe
+bide LÜTFEN SH VEYA BAT DOSYALARINI KULLAN YOKSA TrAkeBaCk :D
+bide programda oluşacağı yeri seçmessen programı sh ve bat dosyalarını kullanarak aç klasörüne geçer
